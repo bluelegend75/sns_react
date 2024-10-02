@@ -1,3 +1,5 @@
+npm install 로 node_modules 설치하고, 관련 모듈 설치해야 함.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
